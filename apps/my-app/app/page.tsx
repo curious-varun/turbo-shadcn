@@ -9,7 +9,7 @@ export default function Home() {
     <div className="flex justify-center items-center bg-green-200 m-5 p-5">
       <Button variant="destructive" onClick={() => {
         console.log("clicked", i++);
-      }}> hi i am varun  </Button>
+      }}> click me </Button>
     </div >
 
   );
